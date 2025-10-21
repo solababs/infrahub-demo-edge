@@ -13,7 +13,3 @@
 ## Infrahub - Demo edge repository
 
 This repository is for use with the [Getting started with Infrahub](https://docs.infrahub.app/tutorials/getting-started/) tutorial.
-
-
-## Updating readme
-This repository is for use with the [Getting started with Infrahub](https://docs.infrahub.app/tutorials/getting-started/) tutorial.
